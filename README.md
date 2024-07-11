@@ -1,2 +1,2 @@
-# TOURIST-PLANNER
-JAVA PROJECT
+# Tourism-site
+java project
